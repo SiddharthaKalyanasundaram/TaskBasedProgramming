@@ -1,0 +1,13 @@
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.exe
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.deps.json
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.runtimeconfig.json
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.runtimeconfig.dev.json
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.dll
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\bin\Debug\netcoreapp3.1\ProgressExample.pdb
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.csprojAssemblyReference.cache
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.csproj.CoreCompileInputs.cache
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.AssemblyInfoInputs.cache
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.AssemblyInfo.cs
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.dll
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.pdb
+C:\Data\Projects\Practices\Asynchronous Programming\ProgressingExample\ProgressExample\obj\Debug\netcoreapp3.1\ProgressExample.genruntimeconfig.cache

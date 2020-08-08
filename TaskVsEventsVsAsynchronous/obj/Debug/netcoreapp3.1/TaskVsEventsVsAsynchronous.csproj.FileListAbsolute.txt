@@ -1,0 +1,13 @@
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.csprojAssemblyReference.cache
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.csproj.CoreCompileInputs.cache
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.AssemblyInfoInputs.cache
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.AssemblyInfo.cs
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.exe
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.deps.json
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.runtimeconfig.json
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.runtimeconfig.dev.json
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.dll
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\bin\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.pdb
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.dll
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.pdb
+C:\Data\Projects\Practices\Asynchronous Programming\TaskVsEventsVsAsynchronous\obj\Debug\netcoreapp3.1\TaskVsEventsVsAsynchronous.genruntimeconfig.cache
